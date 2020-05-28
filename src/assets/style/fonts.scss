@@ -1,0 +1,42 @@
+@font-face {
+  font-family: 'Titillium Web SemiBold';
+  src: url('../fonts/TitilliumWeb-SemiBold.woff2') format('woff2'),
+      url('../fonts/TitilliumWeb-SemiBold.woff') format('woff'),
+      url('../fonts/TitilliumWeb-SemiBold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Titillium Web Regular';
+  src: url('../fonts/TitilliumWeb-Regular.woff2') format('woff2'),
+      url('../fonts/TitilliumWeb-Regular.woff') format('woff'),
+      url('../fonts/TitilliumWeb-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Titillium Web Bold';
+  src: url('../fonts/TitilliumWeb-Bold.woff2') format('woff2'),
+      url('../fonts/TitilliumWeb-Bold.woff') format('woff'),
+      url('../fonts/TitilliumWeb-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Malaga OT Reg';
+  src: url('../fonts/MalagaOT-RegItalic.woff2') format('woff2'),
+      url('../fonts/MalagaOT-RegItalic.woff') format('woff'),
+      url('../fonts/MalagaOT-RegItalic.ttf') format('truetype');
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Minion Pro Regular';
+  src: url('../fonts/Minion-Pro-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
